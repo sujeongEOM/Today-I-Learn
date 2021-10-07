@@ -2,8 +2,9 @@
 🌱 This repository set to keep all the things I got and learned in any fields. 
 
 ## CONTENTS
-✔️ ML+DL   
-- about machine learning and deep learning
+✔️ **Data processing**  
+- medical_data : things while dealing DICOM, MRI, ECG etc
 
-✔️ medical_data   
-- things while dealing DICOM, MRI, ECG etc
+✔️ **ML+DL**   
+: about machine learning and deep learning
+- tf_and_keras : about Tensorflow and Keras  
