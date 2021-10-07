@@ -5,5 +5,5 @@
 ✔️ ML+DL   
 - about machine learning and deep learning
 
-✔️ medical data   
+✔️ medical_data   
 - things while dealing DICOM, MRI, ECG etc
