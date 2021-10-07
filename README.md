@@ -4,3 +4,6 @@
 ## CONTENTS
 ✔️ ML+DL   
 - about machine learning and deep learning
+
+✔️ medical data   
+- things while dealing DICOM, MRI, ECG etc
